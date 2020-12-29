@@ -47,3 +47,7 @@ server.start
 ```
 https://www.just.another.unko.press:8000/index.html
 ```
+
+Linuxのデスクトップアプリとして追加できた
+
+iosのSafariからデスクトップアプリとして追加できた
